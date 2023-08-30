@@ -1,0 +1,176 @@
+html, body{
+    font-size: 16px;
+}
+
+header{
+    background-color: #c7edbe;
+    padding: 90px;
+}
+
+#header-stuff{
+    width: auto;
+    max-width: 1000px;
+    position: relative;
+
+    margin-top: -75px;
+    text-align: left;
+
+    color: #1f5621;
+}
+
+#header-menu{
+    width: 100%;
+    position: absolute;
+
+    font-size: 22px;
+    color: #1f5621;
+
+    top: 132px;
+    left: 0px;
+}
+
+.header-menu-item{
+    width: 18.8%;
+    border-style: hidden;
+
+    background-color: #c7edbe;
+}
+
+#header-menu-item-1{
+    background-color: white;
+}
+
+.vr {
+    width: 1px;
+    border-right: 2px solid #1f5621;
+}
+  
+main{
+    max-width: 1000px;
+    height: auto;
+    margin: auto;
+    
+}
+
+#main-popular{
+    padding: 30px 0px 30px 0px;
+    color: #1f5621;
+
+}
+
+#popular-title{
+    font-family: 'Brush Script MT', cursive;
+}
+
+#popular-items{
+    height: 370px;
+    width: 233px;
+
+    padding-left: 6px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c6c6c6;
+    background-color: #f5f5f5;
+
+    display: inline-block;
+    line-height: 19px;
+}
+
+#popular-image{
+    margin-left: -6px;
+    width: 231px;
+    height: 231px;
+}
+
+#main-autumn-sale{
+    padding: 0px 0px 30px 0px;
+}
+
+#autumn-banner{
+    padding: 0%;
+    position: relative;
+    font-family: 'Brush Script MT', cursive;
+    color: #ffffff;
+}
+
+#autumn-sale-title{
+    position: absolute;
+    top: 27px;
+    left: 240px;
+}
+
+footer{
+    background-color: #c7edbe;
+    color: #1f5621;
+    height: 200px;
+
+    text-align: center;
+    font-size: 150%;
+
+    padding-top: 6px;
+
+    position: relative;
+}
+
+#footer-stuff{
+    background-color: #1a1a1a;
+    height: 150px;
+    max-width: 100%;
+
+    position: absolute;
+    Bottom: 0;
+}
+
+#pepper-header{
+    font-size: 70px;
+    color: #2a792c;
+}
+
+#pepper-footer{
+    font-size: 24px;
+    color: #2a792c;
+}
+
+.fa-cart-shopping{
+    font-size: 35px;
+    color: #2a792c;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+#login{
+    border-radius: 24px;
+    border-color: #2a792c;
+    background-color: #e0f4db;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+    
+    position: absolute;
+    right: 70px;
+    top: 22px;
+}
+
+.fa-magnifying-glass{
+    position: absolute;
+    top: 103px;
+    left: 17px;
+}
+
+#search{
+    width: 95%;
+
+    border-radius: 7px;
+    border-style: hidden;
+    outline: none;
+    padding: 2px 5px 2px 5px;
+
+    position: absolute;
+    top: 96px;
+    right: 0;
+}
+
+#absofruitly-header{
+    display: inline-block;
+}
