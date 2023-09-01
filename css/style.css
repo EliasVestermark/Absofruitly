@@ -114,6 +114,7 @@ main{
 
 #main-autumn-sale{
     padding: 0px 0px 30px 0px;
+    
 }
 
 #autumn-banner{
@@ -141,6 +142,8 @@ main{
 
     display: inline-block;
     line-height: 19px;
+
+    
 }
 
 footer{
@@ -228,4 +231,9 @@ footer{
 
 #absofruitly-header{
     display: inline-block;
+}
+
+.horizontal-scroll{
+    overflow-x: auto;
+    white-space: nowrap;
 }
